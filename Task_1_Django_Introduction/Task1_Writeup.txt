@@ -1,0 +1,11 @@
+1. Django is a free and open-source Python web framework used to develop secure and scalable web applications.
+
+2. A library is called by the developer, whereas a framework provides a structure and calls the developer's code.
+
+3. Django follows the Model-Template-View (MTV) architectural pattern.
+
+4. A browser sends an HTTP request to the Django server, which processes it and returns an HTTP response.
+
+5. I installed Django, created my first Django project, and successfully launched it using the development server.
+
+6. I accessed the default Django rocket welcome page through http://127.0.0.1:8000/.
