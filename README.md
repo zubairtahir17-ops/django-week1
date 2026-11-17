@@ -19,6 +19,12 @@ Revision of Python fundamentals and practical exercises.
 Version control using Git, repository management,
 commits, and pushing code to GitHub.
 
+### Task 5 - Django Project vs App
+
+Created a Django project named portfolio and an application
+named pages. Registered the application and successfully
+ran the Django development server.
+
 ## Technologies Used
 
 - Python
@@ -30,3 +36,7 @@ commits, and pushing code to GitHub.
 ## Author
 
 Zubair Tahir
+
+## GitHub Repo Link
+
+https://github.com/zubairtahir17-ops/django-week1
